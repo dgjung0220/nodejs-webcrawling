@@ -21,6 +21,7 @@
     "cheerio-httpcli": "^0.7.0",
     "collections": "^5.0.7",
     "express": "^4.15.3",
-    "request": "^2.81.0"
+    "request": "^2.81.0",
+    "xml2js": "^0.4.19"
   }
 }
