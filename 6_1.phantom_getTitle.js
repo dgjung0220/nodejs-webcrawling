@@ -1,4 +1,4 @@
-var TARGET_URL = "http://jpub.tistory.com";
+var TARGET_URL = "http://bearpot.net";
 
 var casper = require('casper').create();
 
